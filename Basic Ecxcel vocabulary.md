@@ -28,3 +28,5 @@ A grid of rows and columns in which you enter text, numbers, and the results of 
 The file used to store worksheets; usually a collection of related worksheets.  
 * **Worksheet:-**
 A computerized spreadsheet in Excel.
+* **Relative cell Reference:-**
+ A cell reference that adjusts to its new location when copied or moved.
